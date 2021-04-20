@@ -1,7 +1,7 @@
 - title: "Genomics versus mtDNA for resolving stock structure in the silky shark (*Carcharhinus falciformis*)"
   citation: 'Kraft DW, **Conklin EE**, Barba E, Hutchinson M, Toonen RJ, Forsman ZH, Bowen BW. *PeerJ.*'
   date: 202010
-  image: '/static/img/pub/thomaston_2017.jpg'
+  image: '/static/img/pub/2020_kraft-et-al_fig.jpg'
   pmid: 33150082
   pdf: '/static/pdf/thomaston_2017.pdf'
   links:
@@ -11,7 +11,7 @@
 - title: "Unexpectedly high genetic diversity in a rare and endangered seabird in the Hawaiian Archipelago"
   citation: 'Antaky CC, **Conklin EE**, Toonen RJ, Knapp IS, Price MR. *PeerJ.* 8:e8463.'
   date: 202002
-  image: '/static/img/pub/wang_2016.jpg'
+  image: '/static/img/pub/2020_antaky-et-al_fig.jpg'
   pmid: 32071808
   pdf: '/static/pdf/wang_2016.pdf'
   links:
@@ -21,7 +21,7 @@
 - title: "Modeled larval connectivity of a multi-species reef fish and invertebrate assemblage off the coast of Moloka‘i, Hawaiʻi"
   citation: '**Conklin EE**, Neuheimer AB, Toonen RJ. 2018. *PeerJ.* 6:e5688.'
   date: 201809
-  image: '/static/img/pub/pubs_2015.jpg'
+  image: '/static/img/pub/2018_conklin-et-al_fig.jpg'
   pmid: 30280049
   pdf: '/static/pdf/mavor_elife_2016.pdf'
   links:
@@ -31,7 +31,7 @@
 - title: "Automated tracking and quantification of locomotor behavior with open source software and off-the-shelf video equipment"
   citation: '**Conklin EE**, Lee KL, Schlabach SA, Woods IG. 2015. *Journal of Undergraduate Neuroscience Education.* 13(3):A120–125.'
   date: 201507
-  image: '/static/img/pub/bab_1_2015.jpg'
+  image: '/static/img/pub/2015_conklin-et-al_fig.jpg'
   pmid: 26240518
   pmcid: PMC4521726 
   pdf: '/static/pdf/barad_2015.pdf'
