@@ -11,13 +11,9 @@ theme: jekyll-theme-minima
 
 <table>
 <tr>
-<th> Good </th>
-<th> Bad </th>
-</tr>
-<tr>
 <td>
 
-good
+<img src="/static/img/2019-corals.jpg" alt="" width=200 height=200/>
 
 </td>
 <td>
